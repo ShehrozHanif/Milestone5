@@ -2,7 +2,8 @@
   "name": "milestone5",
   "version": "1.0.0",
   "scripts": {
-    "build": "tsc && cp index.html dist/index.html && cp style.css dist/style.css"
+    "build": "tsc && cp index.html dist/index.html"
+
   },
   "devDependencies": {
     "typescript": "^5.6.3"
